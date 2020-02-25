@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14333" started-at="2020-02-25T15:08:10Z" finished-at="2020-02-25T15:08:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14333" started-at="2020-02-25T15:08:10Z" finished-at="2020-02-25T15:08:24Z">
+      <class name="com.framework.tests.LoginTest">
+        <test-method status="PASS" signature="startsettingsuite()[pri:0, instance:com.framework.tests.LoginTest@7fa833]" name="startsettingsuite" is-config="true" duration-ms="606" started-at="2020-02-25T20:38:09Z" finished-at="2020-02-25T20:38:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startsettingsuite -->
+        <test-method status="PASS" signature="startbrowser()[pri:0, instance:com.framework.tests.LoginTest@7fa833]" name="startbrowser" is-config="true" duration-ms="7785" started-at="2020-02-25T20:38:10Z" finished-at="2020-02-25T20:38:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startbrowser -->
+        <test-method status="PASS" signature="Loginpage()[pri:0, instance:com.framework.tests.LoginTest@7fa833]" name="Loginpage" duration-ms="3974" started-at="2020-02-25T20:38:18Z" finished-at="2020-02-25T20:38:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginpage -->
+        <test-method status="PASS" signature="teardownmethod(org.testng.ITestResult)[pri:0, instance:com.framework.tests.LoginTest@7fa833]" name="teardownmethod" is-config="true" duration-ms="1735" started-at="2020-02-25T20:38:22Z" finished-at="2020-02-25T20:38:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Loginpage status=SUCCESS method=LoginTest.Loginpage()[pri:0, instance:com.framework.tests.LoginTest@7fa833] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownmethod -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.framework.tests.LoginTest@7fa833]" name="teardown" is-config="true" duration-ms="826" started-at="2020-02-25T20:38:23Z" finished-at="2020-02-25T20:38:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.framework.tests.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

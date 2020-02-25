@@ -1,0 +1,7 @@
+com\framework\utility\Helper.class
+com\framework\pages\Baseclass.class
+com\framework\utility\Browserfactory.class
+com\framework\utility\configreader.class
+com\framework\tests\LoginTest.class
+com\framework\utility\ExcelDataprovider.class
+com\framework\pages\Loginpage.class
